@@ -9,7 +9,11 @@
 
 [Claude Shannon -- The Bandwagon](https://reimbar.org/papers/bandwagon/)
 
+[Donald Knuth -- Literate Programming](https://www.cs.tufts.edu/~nr/cs257/archive/literate-programming/01-knuth-lp.pdf)
+
 [Edsgar Dijkstra -- The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+
+[Fredrick Brooks -- No Silver Bullet](https://www.cs.unc.edu/techreports/86-020.pdf)
 
 [Leslie Lamport -- Time, Clocks and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 

@@ -10,9 +10,20 @@ If most computer science knowledge could be generated from some basic principles
 
 ## 定位 Position
 
-这本讲义**不是零基础入门教材**。它预设读者已经分散地学过一些数学、物理和计算机科学的基础知识——但对"这些东西之间有什么关系"感到困惑。它的任务是**整合**：将散落在不同课程里的概念焊成一个统一的框架。
+本讲义旨在帮助读者进行长达80年的、关于计算的思考和玩耍，从而在一生中不感到无聊。
 
-一个有足够天赋的初学者，可以借助大语言模型（随时询问每一个不懂的概念、要求展开每一段压缩的论证），将本讲义作为**极其高效的零基础入门路径**——因为它的压缩率极高，意味着单位时间内的认知跨度极大。
+Readers can think about and play with computing for at least 80 years, thus saving their life from boredness.
+
+## 前置条件 Prerequisites
+
+闲暇 Leisure
+
+好奇心 Curiosity
+
+基础的中文或英文 Basic Chinese or English Literacy
+
+中学数学和物理 High School Math and Physics
+
 
 ## 风格 Style
 

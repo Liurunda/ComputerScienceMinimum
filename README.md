@@ -10,9 +10,13 @@ If most computer science knowledge could be generated from some basic principles
 
 ## 定位 Position
 
-本讲义旨在帮助读者进行长达80年的、关于计算的思考和玩耍，从而在一生中不感到无聊。
+本书帮助读者进行至少80年的、关于计算的思考和玩耍，从而在一生中不感到无聊。
 
-Readers can think about and play with computing for at least 80 years, thus saving their life from boredness.
+This book helps readers think about and play with computing for at least 80 years, thus saving their life from boredness.
+
+深入掌握本书内容的读者，将能胜任各种和计算相关的工程与研究工作。但这并非本书的优先目的，而是任何追寻智识乐趣和深入思考的活动，都具有的一种附带好处。
+
+Readers who understand this book would be competent for all kinds of engineer and research jobs related to computing. However, that is not the primary goal of this book. Instead, that is a collateral benefit of any activity pursuing intelligent joyfulness and deep thinking.
 
 ## 前置条件 Prerequisites
 
@@ -31,7 +35,11 @@ Readers can think about and play with computing for at least 80 years, thus savi
 
 About the style and syntax: I optimized the standard English in the sense of cognitive load and information density, making it more similar to Chinese. I also suggest duolingual Chinese-Chinglish writing as the future standard academic language.
 
-# 工具 Tools
+如果你想要一份“标准英语”的版本，让大语言模型帮你生成一份就可以了。我没有义务为你做这个事情。
+
+If you want a "Standard English" version, just ask any LLM to generate it for you. I bear no responsibility to do that for you.
+
+## 工具 Tools
 
 推荐使用 VS Code - claude code - DeepSeek-V4 作为学习本讲义的工具链。
 
@@ -51,4 +59,3 @@ About the style and syntax: I optimized the standard English in the sense of cog
 
 [WSL和VS Code](https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-vscode)
 
----

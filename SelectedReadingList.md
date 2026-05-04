@@ -4,8 +4,9 @@
 
 在列出最初五篇之后，我决定将这当做一个游戏——考虑作者的姓名首字母，每个首字母只有一篇文章，因此最多26篇文章。
 
+[Andy Clark -- Extending Minds with Generative AI](https://www.nature.com/articles/s41467-025-59906-9)
 
-[Alan Turing -- Computing Machinery and Intelligence](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-9)
+[Turing -- Computing Machinery and Intelligence](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-9)
 
 [Claude Shannon -- The Bandwagon](https://reimbar.org/papers/bandwagon/)
 

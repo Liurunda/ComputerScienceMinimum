@@ -16,6 +16,8 @@
 
 [Leslie Lamport -- Time, Clocks and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
+[Richard Feynman -- Feynman Lectures on Computation](https://physicsgg.me/wp-content/uploads/2023/07/richard_p._feynman-feynman_lectures_on_computation__-addison-wesley1996.pdf)
+
 [Steve Jobs -- Speech at the International Design Conference in Aspen](https://book.stevejobsarchive.com/#:~:text=for%C2%A0design%C2%A0inspiration.-,Speech%C2%A0at%C2%A0the%C2%A0International%20Design%C2%A0Conference%C2%A0in%C2%A0Aspen,-%E2%80%9CComputers%C2%A0and%C2%A0society)
 
 [Turing -- Computing Machinery and Intelligence](https://turingarchive.kings.cam.ac.uk/publications-lectures-and-talks-amtb/amt-b-9)

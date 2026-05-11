@@ -14,6 +14,8 @@
 
 [Fredrick Brooks -- No Silver Bullet](https://www.cs.unc.edu/techreports/86-020.pdf)
 
+[John von Neumann -- The Computer and the Brain](https://ia600805.us.archive.org/16/items/0300181116TheComputerBrain_201901/0300181116_The%20Computer%20Brain.pdf)
+
 [Leslie Lamport -- Time, Clocks and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 [Richard Feynman -- Feynman Lectures on Computation](https://physicsgg.me/wp-content/uploads/2023/07/richard_p._feynman-feynman_lectures_on_computation__-addison-wesley1996.pdf)
